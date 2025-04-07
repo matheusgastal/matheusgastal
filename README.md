@@ -7,6 +7,7 @@
 ### 📜​ Main Languages:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java&theme=dark&perline=6" alt="C++, C, Python, SQL, Java logos" />
+  <img src="Assets/sqlicon.webp" alt="Sql Icon" width="50" height="45" style="filter: invert(1);" />
 </div>
 
 <br>
