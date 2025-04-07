@@ -4,6 +4,11 @@
   <h1 style="font-size: 48px;">Hello, My name is Matheus Gastal! 👨🏻‍💻​</h1>
 </div>
 
+<div align="center">
+  <img src="Assets/retrato_git.png" alt="Hacker working in a dark room" width="400px" />
+</div>
+
+
 <hr style="border: 2px solid #90EE90;">
 
 ### 📜​ Main Languages:
@@ -18,6 +23,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,vscode&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code logos" />
   <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png" alt="Logisim" width="100" height="40" />
+  <img src="Assets/eclipse_icon.png" alt="Udemy Icon" width="50" height="45" />
 </div>
 
 <br>
@@ -34,8 +40,8 @@
 
 ### 🏆 GitHub Stats ⏰:
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusgastal&layout=compact&theme=dark&title_color=ff0000&text_color=ff0000&bg_color=000&border_radius=3&border_color=ff0000&cache_seconds=60" height="180px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusgastal&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=ff0000&text_color=ff0000&bg_color=000&border_radius=3&border_color=ff0000&icon_color=ff0000" height="180px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusgastal&layout=compact&theme=dark&title_color=ff0000&text_color=ff0000&bg_color=000&border_radius=3&border_color=ff0000&cache_seconds=60" height="170px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusgastal&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=ff0000&text_color=ff0000&bg_color=000&border_radius=3&border_color=ff0000&icon_color=ff0000" height="170px"/>
   <img src="https://github-profile-trophy.vercel.app/?username=matheusgastal&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
