@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff0000"/>
 
-## Hello, My name is Matheus Gastal!
+<div align="center">
+  <h1 style="font-size: 48px;">Hello, My name is Matheus Gastal! 👨🏻‍💻​</h1>
+</div>
 
 <hr style="border: 2px solid #90EE90;">
 
@@ -22,8 +24,8 @@
 
 ### ​🖥️​ Main Platforms Used:
 <div align="left">
-  <!-- <img src="Assets/udemy_icon.png" alt="Udemy Icon" width="50" height="45" /> -->
-  <!-- leetcode /> -->
+  <img src="Assets/udemy_icon.png" alt="Udemy Icon" width="50" height="45" />
+  <img src="Assets/Leetcode_icon.png" alt="Udemy Icon" width="100" height="40" />
   <img src="https://sta.codeforces.com/s/58088/images/codeforces-logo-with-telegram.png" alt="CodeForces logo" width="100" height="40" />
   <img src="https://www.dio.me/_next/image?url=https%3A%2F%2Fhermes.dio.me%2Farticles%2Fcover%2F3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg&w=1080&q=75" alt="beeCrowd logo" width="120" height="40" />
 </div>
