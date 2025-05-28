@@ -8,6 +8,7 @@
   <img src="Assets/retrato_git.png" alt="Hacker working in a dark room" width="400px" />
 </div>
 
+### 📈​ Founder of [@MIND](https://github.com/MIND-UFPR)
 
 <hr style="border: 2px solid #90EE90;">
 
